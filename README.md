@@ -21,4 +21,4 @@ Currently looking for new growth opportunities and always learning.
 
 - 🔭 Currently working on backend tools and Docker-based projects
 - 💬 Ask me about: Java, Spring Boot, REST APIs
-- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/leonardo-cottino/))
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-cottino/)
