@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Leonardo 👋
+
+Software Developer focused on Java and Spring Boot, building backend projects around microservice architecture, REST APIs, and clean code practices. I like understanding how things work end-to-end — from design to a working, documented project.
+
+Currently looking for new growth opportunities and always learning.
+
+- 🔭 Currently working on backend tools and Docker-based projects
+- 💬 Ask me about: Java, Spring Boot, REST APIs
+- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/leonardo-cottino/))
